@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "spotify": {
+      "command": "node",
+      "args": ["C:\\ssd_MSU\\ai_projects\\Spofity Agent\\spotify-mcp-server\\build\\index.js"]
+    }
+  }
+}
